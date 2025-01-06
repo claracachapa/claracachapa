@@ -31,6 +31,7 @@ Let's connect!
   <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/Matplotlib-%231478AB.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-%23202224.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
 </div>
 
 </div>
